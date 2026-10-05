@@ -1,0 +1,20 @@
+{
+  "pairs": 24,
+  "holdout_days": 28,
+  "daily_lost_conversions_per_suppressed_geo": 15.894345238095235,
+  "incremental_conversions_in_test_geos": 10680.999999999998,
+  "conversion_ci_95": [
+    9479.689657632596,
+    11882.3103423674
+  ],
+  "incremental_revenue_usd": 854479.9999999999,
+  "incremental_roas": 1.5507693224757166,
+  "iroas_ci_95": [
+    1.3763516438205188,
+    1.7251870011309143
+  ],
+  "restored_channel_spend_usd": 551003.9356697296,
+  "paired_randomization_p_value": 9.999000099990002e-05,
+  "preperiod_placebo_daily_difference": 0.38988095238095494,
+  "scope": "Synthetic 28-day experiment; no annualization or LTV extrapolation"
+}
